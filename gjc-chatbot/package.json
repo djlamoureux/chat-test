@@ -1,0 +1,10 @@
+{
+  "name": "gjc-chatbot",
+  "version": "2.0.0",
+  "description": "Georgetown Judo Club - MessageHub Chatbot Webhook (OpenAI-powered) for Vercel",
+  "main": "api/webhook.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
